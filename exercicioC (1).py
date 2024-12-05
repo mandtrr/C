@@ -1,6 +1,6 @@
 #1. Faça um programa para calcular a soma dos N primeiros números naturais (1+2+3+...+N) em que N é um número introduzido pelo utilizador.
 
-n = int(input('Digite um número: '))
+n = int(input('Por favor, digite um número: '))
 
 soma = 0
 
